@@ -210,6 +210,8 @@ Note:When training ,The ONE EPOCH is the simply when the model peforms the forwa
 VANISHING GRADIENT PROBLEM 
 -This is problem that caused by the sigmoid function and also the tanh function  when doing backpropagation by the gradient descent to find out the updated weight so as to reduces the cost/loss function.Where by the updated weight and the original weight were found to be nearly the same because the range of the derivatives is range from 0-0.25.hence that's why the sigmoid activation function is not used in the hidden layers.
 
+
+
 -Therefore to solve the problem of the vanishing gradient problem .we use the activation funcion of the relu where by the range of the derivatives is either 0 or 1,actually it used leaky leru whereby to avoid the dead neuron to occur because of the value to be 0  hence there will be a maximum difference between the original and updated weight.
 
 
@@ -251,6 +253,23 @@ Xavier and Gorat techniques
 
 He init
 -This works very nice with the relu activation function.
+
+
+
+OPTIMIZERS IN DEEP LEARNING 
+-mini batch SGD -This is used to takes the batch size of the records or data set to updates the weights. 
+
+
+-GD -This takes the all records in  all dataset to updates the weights 
+
+-SGD -This takes only one record to updates the weights 
+
+-adagrad(adaptive GD) -this is used to train the model by using different learning rate in the every iterations. 
+
+-Adams  -The every one uses the adamas 
+
+-adadelta 
+
 
 
 
