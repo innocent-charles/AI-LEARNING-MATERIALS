@@ -199,7 +199,7 @@ FORWARD PROPAGATION-it the proprocess or technique of finding the outputs as the
 
 
 
-BACKPROPAGATION -This is the technique or process that used by the optimizer such as gradient descent or the statichiostric gradient descent to reduce the loss function or cost function simply by going back from the output layer to the inputs so as to updates the weights.
+BACKPROPAGATION -This is the technique or process that uses the optimizer such as gradient descent or the statichiostric gradient descent to reduce the loss function or cost function simply by going back from the output layer to the inputs so as to updates the weights.
 -This actually occurs like this: weightnew=weightoriginal-(learning rate * (derivative of the loss function with respect to the weightoriginal)
 
 
