@@ -142,7 +142,7 @@ GRADIENT DESCENT
  
  
 BACKPROPAGATION 
-This is the technique that used by the gradient descent to find out the best parameter for minimizing the cost function 
+This is the technique that uses  the gradient descent to find out the best parameter for minimizing the cost function 
 
 
 
