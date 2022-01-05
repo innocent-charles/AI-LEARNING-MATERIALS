@@ -297,6 +297,8 @@ from tensorflow.keras.models import Sequential
 model=Sequential()
 
 
+#Here input_dim is the shortcut for the input_shape parameter
+
 
 
 
