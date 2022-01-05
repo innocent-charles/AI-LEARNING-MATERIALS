@@ -285,6 +285,17 @@ TWO TYPES OF THE MODELS FROM SCRATCH USED IN DEEP LEARNING
 
 
 
+HOW TO USE KERAS IN TENSORFLOW ! 
+-Using API (High level API) that is tf.keras    ,  this is after importing import tensorflow as tf  .This is recommended if you know what going on exactly  Example: When defining 
+the model you will come straight to the 
+
+model=tf.keras.sequential()
+
+-Using tensorflow .keras , this is after importing import tensorflow. This is used when actually people come from using keras mostly or has experirnced with the keras . Example 
+
+from tensorflow.keras.models import Sequential 
+model=Sequential()
+
 
 
 
