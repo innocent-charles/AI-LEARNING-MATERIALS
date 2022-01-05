@@ -280,7 +280,7 @@ OPTIMIZERS IN DEEP LEARNING
 
 
 TWO TYPES OF THE MODELS FROM SCRATCH USED IN DEEP LEARNING
-- Sequential API 
+- Sequential API ,This is very simple and recommended for starting , It is referred to as “sequential” because it involves defining a Sequential class and adding layers to the model one by one in a linear manner, from input to output.
 -Functional API (Advanced)
 
 
