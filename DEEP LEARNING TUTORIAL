@@ -297,9 +297,9 @@ from tensorflow.keras.models import Sequential
 model=Sequential()
 
 
-#Here input_dim is the shortcut for the input_shape parameter
-
-
+#Here input_dim  is the shortcut for the  input_shape  parameter if the shape of the data has only one dimension and it's value is equal to the number of the columns/features in the data set that required to be used.
+#here 
+#units parameters specify the number of the neurons to be used in each layer.
 
 
 
