@@ -1,0 +1,45 @@
+                              MODULE 1: INTRODUCTION
+                         
+                              UNSUPERVISED LEARNING 
+Before understanding what is Unsupervised learning ,let us take a look into a supervised learning first., SUPERVISED LEARNING -is kind of the type of the machine learning that a machine learns from the data to make prediction but under supervision,that means there is input features and target and hence a machine has to predict that target accordance or based on the given target column,therefore there is either correct answer or incorrect answer. It is called supervised learning because the process of an algorithm learning from the training dataset can be thought of as a teacher supervising the learning process. We know the correct answers, the algorithm iteratively makes predictions on the training data and is corrected by the teacher. Learning stops when the algorithm achieves an acceptable level of performance.
+SUPERVISED LEARNING = LEARNING WITH  LABELS 
+
+
+UNSUPERVISED LEARNING -Dfn:-This is the type of the machine learning that a machine learns the data to predict but under no supervision , that means there is no target column and hence a machine has to find some structure in the dataset ,example grouping the dataset into groups to create those labels.These are called unsupervised learning because unlike supervised learning, there are no correct answers and there is no teacher. Algorithms are left to their own to discover and present the interesting structure in the data.
+UNSUPERVISED LEARNING = LEARNING WITHOUT LABELS
+
+
+IMPORTANCE OF THE UNSUPERVISED LEARNING 
+In the real world, most of the data is available in an unstructured format. Hence, it becomes extremely difficult to draw insights from them.
+
+Unsupervised Learning helps to draw similarities between the data and separate them into groups having unique labels. 
+
+In this way, the unstructured data can be converted into a structured format.
+Due to this cognitive power to draw insights, deduce patterns from the data, and learn from those, unsupervised learning is often compared to human intelligence.
+
+WHY UNSUPERVISED  LEARNING?
+-Annotating(Labelling) large datasets is very costly and hence we can label only a few examples manually. Example: Speech Recognition
+
+-There may be cases where we don’t know how many/what classes is the data divided into. Example: Data Mining
+
+-We may want to use clustering(grouping) to gain some insight into the structure of the data before designing a classifier.
+
+
+APPLICATIONS OF THE UNSUPERVISED LEARNING 
+-Market segmentation 
+Dfn:-This is the process of diving a customers into groups based on the shared needs,preference and choice or desires.Hence business can use those groups to sell a required product to a specific group . example if a certain groups has many money or income means their products will be of the high prices compared to the other. 
+
+-Social Networks Analysis
+Dfn:-This can defined as mapping of relationships between friends,organizations,computers,urls in a social media. 
+
+-Astronomical data analyisis 
+Dfn:This is process of the clustering the galaxy based on the certain characters. 
+
+
+USES CASE OF THE UNSUPERVISED LEARNING 
+-Clustering ,this based in grouping the unstructured dataset to find some structures
+-Dimensionallly reduction , this based on reducing the dimension of the input variables in the dataset. 
+
+
+
+
