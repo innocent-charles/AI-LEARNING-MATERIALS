@@ -271,6 +271,69 @@ OPTIMIZERS IN DEEP LEARNING
 -adadelta 
 
 
+DESIGNING AND DEVELOPING A ANN  by using 
+-Important library to import :
+//library for the deep learning
+1.import keras 
+
+//import model 
+2.from keras.models import Sequential
+
+//import layers 
+
+3.
+from keras.layers import Dense
+from keras.layers import Leru
+from keras.layers import Dropout
+
+//building the model
+model=Sequential()
+//creating the first hidden layer 
+model.add(Dense(input_dim=21,kernel_initializer="he_uniform",activation="relu',units=6))
+
+//Note here input_dim is equal to the number of  columns of the x_train dataset 
+
+//creating the second hidden layer 
+model.add(Dense(kernel_initializer="he_uniform",acivation="relu",units=11))
+
+//creating the ouput layer 
+model.add(Dense(kernel_initializer="glorot_uniform",activation="sigmoid",unit=1))
+
+
+//compiling the model 
+model.compile(optimizer="adam",loss="binary_crossentropy",metrics=['accuracy'])
+
+
+model_history=model.fit(x_train,y_train,validation_split=0.3,batch_size=32,epochs=100)
+
+model_history.history.key()
+
+
+plt.plot(model_history.history['loss'))
+plt.plot(model_history.history['val_loss'])
+plt.title("Loss of the model")
+plt.ylabel("loss")
+plt.xlabel("epoch")
+plt.legend(['train','test',loc=['upper left'])
+plt.show()
+
+
+
+y_pred=model.predict(x_test)
+
+
+
+finalPrediction=model.predict(test)
+
+
+HYPERPARAMETER TUNING 
+-keras Tuner 
+
+
+
+
+
+
 
 
 

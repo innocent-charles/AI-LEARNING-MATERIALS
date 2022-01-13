@@ -1,0 +1,14 @@
+1.pandas 
+2.numpy 
+3.seaborn 
+4.matplotlib 
+
+EDA
+-1.Check Numerical features(histogram,pdf)
+-2.Check the categorical features 
+-3.Missing values 
+-4.Outliers(By using Box plot)
+
+
+-----Panda_profiling 
+

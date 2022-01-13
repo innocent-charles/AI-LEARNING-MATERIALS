@@ -1,0 +1,42 @@
+ID,Person unique/random identification
+country_code,The country codes
+region,"Region_codes of a given country,.i.e., South Asia, Europe, etc"
+age,Individual age
+FQ1,Has ATM/debit card
+FQ2,Is the ATM connected to an account with your name?
+FQ3,Purchased with the ATM
+FQ4,Has a credit card
+FQ5,Used the credit card in 12 months
+FQ6,Money deposits to a bank account in the last 12 months
+FQ7,Money withdrawals from a bank account in the last 12 months
+FQ7,Savings in the last 12 months to start a business/farm
+FQ9,Savings in the last 12 months for old age
+FQ10,Saved the money at a bank/financial institutions
+FQ11,Save the money at groups/clubs of any informal type
+FQ12,"Has a loan from formal financial institutions to purchase land, home, or apartment"
+FQ13,Borrowed money for health/medical purposes in the last 12 months
+FQ14,Borrowed money to start/grow business or farm
+FQ15,Borrowed money from formal financial institutions - 12 months
+FQ16,"Borrowed money from friends, relatives, or family - 12 months"
+FQ17,Borrowed money from an informal saving. I.e group or club
+FQ18,What is the possibility of coming up with 1/20 of per capita in 1 month
+FQ19,Source of money for FQ18
+FQ20,Sent/given money to friend/relative
+FQ21,Received money from friend or relative
+FQ22,"Payments for electricity, water, or trash in the last 12 months"
+FQ23,salary/wages in the last 12 months
+FQ24,Employed by government or public sector -12 months
+FQ25,Received any form of financial support from the government
+FQ26,Pension in the last 12 months
+FQ27,Was the a/c you received money from the government your first?
+FQ28,Did you open the a/c to receive payments from the government
+FQ29,"Received money for the sale of livestock, agricultural products, crops, produce? (12 months)"
+FQ30,Was this your first a/c for transaction in FQ29
+FQ31,Did you open the a/c to receive payments in FQ29
+FQ32,Received money from your business in last 12 months
+FQ33,Owns a mobile phone
+FQ34,Has national ID card
+FQ35,Was the a/c you received money from your employer your first?
+FQ36,Did you open the a/c to receive the money in FQ36
+FQ37,Owns a bank a/c
+Target,Determine whether one has used mobile or internet banking.
