@@ -7,3 +7,4 @@
 . https://www.simplilearn.com/tutorials/deep-learning-tutorial/convolutional-neural-network
 . https://www.slideshare.net/KirillEremenko/deep-learning-az-convolutional-neural-networks-cnn-module-2
 . https://www.tensorflow.org/tutorials/images/cnn
+. https://medium.com/geekculture/introduction-to-convolutional-neural-network-with-tensorflow-and-keras-cb52cdc66eaf
