@@ -8,3 +8,4 @@
 . https://www.slideshare.net/KirillEremenko/deep-learning-az-convolutional-neural-networks-cnn-module-2
 . https://www.tensorflow.org/tutorials/images/cnn
 . https://medium.com/geekculture/introduction-to-convolutional-neural-network-with-tensorflow-and-keras-cb52cdc66eaf
+. https://medium.com/@mayankverma05032001/binary-classification-using-convolution-neural-network-cnn-model-2635ddcdc510
