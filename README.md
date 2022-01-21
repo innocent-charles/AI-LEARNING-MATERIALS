@@ -12,3 +12,4 @@
 - https://dphi.tech/notebooks/1537/daanidev/breast-cancer-detection-using-cnn
 - https://www.pyimagesearch.com/2018/12/31/keras-conv2d-and-convolutional-layers/#download-the-code
 - https://omdena.com/course/mlops-for-ai-engineers-and-data-scientists/#
+- https://soshace.com/developer-advocate/
