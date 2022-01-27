@@ -14,3 +14,4 @@
 - https://omdena.com/course/mlops-for-ai-engineers-and-data-scientists/#
 - https://soshace.com/developer-advocate/
 - chrome://flags/
+- https://towardsdatascience.com/beginner-to-advanced-list-comprehension-practice-problems-a89604851313
