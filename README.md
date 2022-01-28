@@ -15,3 +15,4 @@
 - https://soshace.com/developer-advocate/
 - chrome://flags/
 - https://towardsdatascience.com/beginner-to-advanced-list-comprehension-practice-problems-a89604851313
+- https://towardsdatascience.com/the-complete-guide-to-time-series-analysis-and-forecasting-70d476bfe775
