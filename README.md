@@ -19,4 +19,4 @@
 - https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=innocoder-official&style=--border-radius:0px&branding=false&width=350
 - https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=innocoder-official&logos=true&grid=true&branding=false&width=800
 - https://cr-skills-chart-widget.azurewebsites.net/api/api?username=innocoder-official&show-other-skills=true&branding=false
-- 
+- https://towardsdatascience.com/image-detection-from-scratch-in-keras-f314872006c9
