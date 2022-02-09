@@ -1,0 +1,70 @@
+Variable,Definition
+Basket Masked,A generic masking for each shopping session (known as a basket). This will help you create a validation set with no data leakage (i.e. observations from the same basket can be kept entirely in either the training or validation set).
+ID,An ID column that identifies an observation (i.e. a sequence of 30 consecutive frames).
+noseX,The x-coordinate of the subject’s nose.
+noseY,The y-coordinate of the subject’s nose.
+leftEyeInnerX,The x-coordinate of the subject’s inner left eye.
+leftEyeInnerY,The y-coordinate of the subject’s inner left eye.
+leftEyeX,The x-coordinate of the subject’s left eye.
+leftEyeY,The y-coordinate of the subject’s left eye.
+leftEyeOuterX,The x-coordinate of the subject’s outer left eye.
+leftEyeOuterY,The y-coordinate of the subject’s outer left eye.
+rightEyeInnerX,The x-coordinate of the subject’s inner right eye.
+rightEyeInnerY,The y-coordinate of the subject’s inner right eye.
+rightEyeX,The x-coordinate of the subject’s right eye.
+rightEyeY,The y-coordinate of the subject’s right eye.
+rightEyeOuterX,The x-coordinate of the subject’s outer right eye.
+rightEyeOuterY,The y-coordinate of the subject’s outer right eye.
+leftEarX,The x-coordinate of the subject’s left ear.
+leftEarY,The y-coordinate of the subject’s left ear.
+rightEarX,The x-coordinate of the subject’s right ear.
+rightEarY,The y-coordinate of the subject’s right ear.
+leftMouthX,The x-coordinate of the left corner of the subject’s mouth.
+leftMouthY,The y-coordinate of the left corner of the subject’s mouth.
+rightMouthX,The x-coordinate of the right corner of the subject’s mouth.
+rightMouthY,The y-coordinate of the right corner of the subject’s mouth.
+leftShoulderX,The x-coordinate of the subject’s left shoulder.
+leftShoulderY,The y-coordinate of the subject’s left shoulder.
+rightShoulderX,The x-coordinate of the subject’s right shoulder.
+rightShoulderY,The y-coordinate of the subject’s right shoulder.
+leftElbowX,The x-coordinate of the subject’s left elbow.
+leftElbowY,The y-coordinate of the subject’s left elbow.
+rightElbowX,The x-coordinate of the subject’s right elbow.
+rightElbowY,The y-coordinate of the subject’s right elbow.
+leftWristX,The x-coordinate of the subject’s left wrist.
+leftWristY,The y-coordinate of the subject’s left wrist.
+rightWristX,The x-coordinate of the subject’s right wrist.
+rightWristY,The y-coordinate of the subject’s right wrist.
+leftPinkyX,The x-coordinate of the subject’s left pinky.
+leftPinkyY,The y-coordinate of the subject’s left pinky.
+rightPinkyX,The x-coordinate of the subject’s right pinky.
+rightPinkyY,The y-coordinate of the subject’s right pinky.
+leftIndexX,The x-coordinate of the subject’s left index.
+leftIndexY,The y-coordinate of the subject’s left index.
+rightIndexX,The x-coordinate of the subject’s right index.
+rightIndexY,The y-coordinate of the subject’s right index.
+leftThumbX,The x-coordinate of the subject’s left thumb.
+leftThumbY,The y-coordinate of the subject’s left thumb.
+rightThumbX,The x-coordinate of the subject’s right thumb.
+rightThumbY,The y-coordinate of the subject’s right thumb.
+leftHipX,The x-coordinate of the subject’s left hip.
+leftHipY,The y-coordinate of the subject’s left hip.
+rightHipX,The x-coordinate of the subject’s right hip.
+rightHipY,The y-coordinate of the subject’s right hip.
+leftKneeX,The x-coordinate of the subject’s left knee.
+leftKneeY,The y-coordinate of the subject’s left knee.
+rightKneeX,The x-coordinate of the subject’s right knee.
+rightKneeY,The y-coordinate of the subject’s right knee.
+leftAnkleX,The x-coordinate of the subject’s left ankle.
+leftAnkleY,The y-coordinate of the subject’s left ankle.
+rightAnkleX,The x-coordinate of the subject’s right ankle.
+rightAnkleY,The y-coordinate of the subject’s right ankle.
+leftHeelX,The x-coordinate of the subject’s left heel.
+leftHeelY,The y-coordinate of the subject’s left heel.
+rightHeelX,The x-coordinate of the subject’s right heel.
+rightHeelY,The y-coordinate of the subject’s right heel.
+leftFootIndexX,The x-coordinate of the subject’s left foot index.
+leftFootIndexY,The y-coordinate of the subject’s left foot index.
+rightFootIndexX,The x-coordinate of the subject’s right foot index.
+rightFootIndexY,The y-coordinate of the subject’s right foot index.
+Target,A binary column where 1 corresponds to a take action and 0 corresponds to no take actions in the 30 frame sequence.
