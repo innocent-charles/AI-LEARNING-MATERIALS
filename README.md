@@ -20,3 +20,4 @@
 - https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=innocoder-official&logos=true&grid=true&branding=false&width=800
 - https://cr-skills-chart-widget.azurewebsites.net/api/api?username=innocoder-official&show-other-skills=true&branding=false
 - https://towardsdatascience.com/image-detection-from-scratch-in-keras-f314872006c9
+- https://towardsai.net/p/computer-vision/70-image-classification-datasets-from-different-industry-domains-part-2-cd1af6e48eda
