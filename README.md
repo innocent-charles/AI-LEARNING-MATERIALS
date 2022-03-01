@@ -23,3 +23,4 @@
 - https://towardsai.net/p/computer-vision/70-image-classification-datasets-from-different-industry-domains-part-2-cd1af6e48eda
 - https://www.analyticsvidhya.com/blog/2020/08/image-augmentation-on-the-fly-using-keras-imagedatagenerator/#:~:text=ImageDataGenerator%20class%20allows%20you%20to,value%20in%20the%20rotation_range%20argument.
 - https://dev.to/creativetim_official/what-is-laravel-explain-it-like-i-m-five-19eb
+- https://askubuntu.com/questions/404424/how-do-i-restore-bashrc-to-its-default
