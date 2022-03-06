@@ -28,3 +28,4 @@
 - https://stackoverflow.com/questions/25373188/how-to-place-the-composer-vendor-bin-directory-in-your-path
 - https://towardsdatascience.com/an-introduction-to-recurrent-neural-networks-for-beginners-664d717adbd
 - https://www.simplilearn.com/tutorials/deep-learning-tutorial/rnn
+- https://towardsdatascience.com/your-guide-to-natural-language-processing-nlp-48ea2511f6e1
