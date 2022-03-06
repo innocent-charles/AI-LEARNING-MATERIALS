@@ -26,3 +26,4 @@
 - https://askubuntu.com/questions/404424/how-do-i-restore-bashrc-to-its-default
 - echo 'export PATH="$PATH:$HOME/.config/composer/vendor/bin"' >> ~/.bashrc
 - https://stackoverflow.com/questions/25373188/how-to-place-the-composer-vendor-bin-directory-in-your-path
+- https://towardsdatascience.com/an-introduction-to-recurrent-neural-networks-for-beginners-664d717adbd
