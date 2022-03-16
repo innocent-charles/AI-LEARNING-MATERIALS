@@ -30,3 +30,4 @@
 - https://www.simplilearn.com/tutorials/deep-learning-tutorial/rnn
 - https://towardsdatascience.com/your-guide-to-natural-language-processing-nlp-48ea2511f6e1
 - https://analyticsindiamag.com/introduction-to-featuretools-a-python-framework-for-automated-feature-engineering/
+- https://coggle.it/diagram/W72Md-O61TiNmYAX/t/subdomains-of-ai
