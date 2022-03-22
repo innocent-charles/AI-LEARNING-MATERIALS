@@ -34,6 +34,7 @@
 - https://www.netguru.com/blog/product-recommendation-machine-learning
 - https://appinventiv.com/blog/how-to-integrate-machine-learning-artificial-intelligence-into-apps/
 - https://appinventiv.com/portfolio/pizza-hut-food-delivery-app/
+- https://towardsdatascience.com/how-to-build-a-resume-parsing-tool-ae19c062e377
 - pip list 
 - pip freeze
 - 
