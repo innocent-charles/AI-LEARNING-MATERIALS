@@ -35,6 +35,7 @@
 - https://appinventiv.com/blog/how-to-integrate-machine-learning-artificial-intelligence-into-apps/
 - https://appinventiv.com/portfolio/pizza-hut-food-delivery-app/
 - https://towardsdatascience.com/how-to-build-a-resume-parsing-tool-ae19c062e377
+- https://kgptalkie.medium.com/resume-and-cv-summarization-using-machine-learning-in-python-394ea49fba3e
 - pip list 
 - pip freeze
 - 
