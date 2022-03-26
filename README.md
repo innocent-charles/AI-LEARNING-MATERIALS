@@ -37,6 +37,7 @@
 - https://towardsdatascience.com/how-to-build-a-resume-parsing-tool-ae19c062e377
 - https://kgptalkie.medium.com/resume-and-cv-summarization-using-machine-learning-in-python-394ea49fba3e
 - https://www.linkedin.com/pulse/named-entity-recognition-ner-bringing-value-business-saurabh-singhal/
+- https://thinkinfi.com/prepare-training-data-and-train-custom-ner-using-spacy-python/
 - pip list 
 - pip freeze
 - 
