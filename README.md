@@ -38,6 +38,7 @@
 - https://kgptalkie.medium.com/resume-and-cv-summarization-using-machine-learning-in-python-394ea49fba3e
 - https://www.linkedin.com/pulse/named-entity-recognition-ner-bringing-value-business-saurabh-singhal/
 - https://thinkinfi.com/prepare-training-data-and-train-custom-ner-using-spacy-python/
+- https://towardsdatascience.com/a-review-of-named-entity-recognition-ner-using-automatic-summarization-of-resumes-5248a75de175
 - pip list 
 - pip freeze
 - 
