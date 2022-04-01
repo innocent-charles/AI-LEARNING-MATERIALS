@@ -41,4 +41,4 @@
 - https://towardsdatascience.com/a-review-of-named-entity-recognition-ner-using-automatic-summarization-of-resumes-5248a75de175
 - pip list 
 - pip freeze
-- 
+- https://promo.com/?force-hp=1
