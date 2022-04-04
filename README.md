@@ -42,3 +42,4 @@
 - pip list 
 - pip freeze
 - https://promo.com/?force-hp=1
+- https://nanonets.com/blog/attention-ocr-for-text-recogntion/
