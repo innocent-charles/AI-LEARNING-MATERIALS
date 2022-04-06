@@ -44,3 +44,4 @@
 - https://promo.com/?force-hp=1
 - https://nanonets.com/blog/attention-ocr-for-text-recogntion/
 - https://www.wholewhale.com/tips/mission-statement-generator/
+- https://www.analyticsvidhya.com/blog/2020/06/introduction-anova-statistics-data-science-covid-python/
