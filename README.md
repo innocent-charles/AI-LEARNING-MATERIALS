@@ -47,3 +47,4 @@
 - https://www.analyticsvidhya.com/blog/2020/06/introduction-anova-statistics-data-science-covid-python/
 - https://www.visitnsw.com/things-to-do/drives-and-road-trips/legendary-pacific-coast
 - https://www.artshub.com.au/news/sponsored-content/why-arts-and-tourism-need-each-other-251464-2352639/#:~:text=The%20pairing%20of%20arts%20and,local%20areas%20through%20creative%20practice.
+- https://www.artshub.com.au/news/sponsored-content/why-arts-and-tourism-need-each-other-251464-2352639/#:~:text=The%20pairing%20of%20arts%20and,local%20areas%20through%20creative%20practice.
