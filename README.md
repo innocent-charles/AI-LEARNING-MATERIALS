@@ -50,3 +50,4 @@
 - https://www.artshub.com.au/news/sponsored-content/why-arts-and-tourism-need-each-other-251464-2352639/#:~:text=The%20pairing%20of%20arts%20and,local%20areas%20through%20creative%20practice.
 - https://www.v7labs.com/blog/neural-networks-activation-functions#:~:text=Regression%20%2D%20Linear%20Activation%20Function,Multilabel%20Classification%20%2D%20Sigmoid
 - https://skillate.com/blog/resume-parser/
+- https://www.skillate.com/blog/smart-recruitment-cracking-resume-parsing-through-deep-learning-part-ii/
