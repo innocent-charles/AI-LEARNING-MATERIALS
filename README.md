@@ -51,3 +51,4 @@
 - https://www.v7labs.com/blog/neural-networks-activation-functions#:~:text=Regression%20%2D%20Linear%20Activation%20Function,Multilabel%20Classification%20%2D%20Sigmoid
 - https://skillate.com/blog/resume-parser/
 - https://www.skillate.com/blog/smart-recruitment-cracking-resume-parsing-through-deep-learning-part-ii/
+- https://www.wearemarketing.com/blog/tourism-and-technology-how-tech-is-revolutionizing-travel.html
