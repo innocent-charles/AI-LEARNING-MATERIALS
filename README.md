@@ -52,3 +52,4 @@
 - https://skillate.com/blog/resume-parser/
 - https://www.skillate.com/blog/smart-recruitment-cracking-resume-parsing-through-deep-learning-part-ii/
 - https://www.wearemarketing.com/blog/tourism-and-technology-how-tech-is-revolutionizing-travel.html
+- https://www.designevo.com/logo-maker/
