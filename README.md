@@ -54,3 +54,4 @@
 - https://www.wearemarketing.com/blog/tourism-and-technology-how-tech-is-revolutionizing-travel.html
 - https://www.designevo.com/logo-maker/
 - https://engineering.linkedin.com/architecture/brief-history-scaling-linkedin
+- http://www.introdatascience.com/course-slides.html
