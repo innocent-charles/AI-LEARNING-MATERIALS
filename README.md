@@ -55,3 +55,4 @@
 - https://www.designevo.com/logo-maker/
 - https://engineering.linkedin.com/architecture/brief-history-scaling-linkedin
 - http://www.introdatascience.com/course-slides.html
+- https://www.fotor.com/
