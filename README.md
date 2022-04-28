@@ -56,4 +56,5 @@
 - https://engineering.linkedin.com/architecture/brief-history-scaling-linkedin
 - http://www.introdatascience.com/course-slides.html
 - https://www.fotor.com/
-https://pixlr.com/
+- https://pixlr.com/
+- https://theymakedesign.com/app-development-design-inspiration-f302154ab948
