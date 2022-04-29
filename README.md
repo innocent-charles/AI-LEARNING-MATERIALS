@@ -58,3 +58,4 @@
 - https://www.fotor.com/
 - https://pixlr.com/
 - https://theymakedesign.com/app-development-design-inspiration-f302154ab948
+- https://zety.com/blog/hr-statistics#online-recruiting-and-social-media-statistics
