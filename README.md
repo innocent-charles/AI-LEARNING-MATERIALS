@@ -60,3 +60,4 @@
 - https://theymakedesign.com/app-development-design-inspiration-f302154ab948
 - https://zety.com/blog/hr-statistics#online-recruiting-and-social-media-statistics
 - https://no-cv.com/en/
+- https://www.linkedin.com/pulse/advantages-disadvantages-linkedin-students-richard-okiasi-/
