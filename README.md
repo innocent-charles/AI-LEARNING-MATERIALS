@@ -61,3 +61,4 @@
 - https://zety.com/blog/hr-statistics#online-recruiting-and-social-media-statistics
 - https://no-cv.com/en/
 - https://www.linkedin.com/pulse/advantages-disadvantages-linkedin-students-richard-okiasi-/
+- https://www.dataquest.io/blog/a-complete-guide-to-python-virtual-environments/
