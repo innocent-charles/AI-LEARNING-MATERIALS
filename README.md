@@ -65,3 +65,4 @@
 - https://www.dataquest.io/blog/a-complete-guide-to-python-virtual-environments/
 - https://www.themuse.com/employers/#getstarted
 - https://www.tanzajob.com/recruitment
+- https://pro.regiondo.com/instagram-tourism-marketing/
