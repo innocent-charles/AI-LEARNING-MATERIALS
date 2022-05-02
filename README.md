@@ -68,3 +68,4 @@
 - https://pro.regiondo.com/instagram-tourism-marketing/
 - https://psfiles.com/
 - https://xdfile.com/
+- https://www.hospitalitynet.org/news/4071855.html
