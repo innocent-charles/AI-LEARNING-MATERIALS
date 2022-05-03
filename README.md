@@ -71,3 +71,4 @@
 - https://www.hospitalitynet.org/news/4071855.html
 - https://en.wikipedia.org/wiki/Tripadvisor
 - https://www.virtuoso.com/travel/luxury-hotels
+- https://www.palantir.com/
