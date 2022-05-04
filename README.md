@@ -72,3 +72,4 @@
 - https://en.wikipedia.org/wiki/Tripadvisor
 - https://www.virtuoso.com/travel/luxury-hotels
 - https://www.palantir.com/
+- https://en.everybodywiki.com/How_to_Create_a_Google_Knowledge_Panel
