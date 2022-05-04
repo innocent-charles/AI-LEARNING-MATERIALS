@@ -75,3 +75,4 @@
 - https://en.everybodywiki.com/How_to_Create_a_Google_Knowledge_Panel
 - https://www.softwaretestinghelp.com/cloud-storage-providers/
 - https://www.fastcompany.com/90635776/the-twisted-psychology-of-browser-tabs-and-why-we-cant-get-rid-of-them
+_ https://www.google.com/amp/s/www.sciencealert.com/tab-overload-is-a-common-problem-for-people-browsing-the-internet-survey-finds/amp
