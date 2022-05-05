@@ -77,3 +77,4 @@
 - https://www.fastcompany.com/90635776/the-twisted-psychology-of-browser-tabs-and-why-we-cant-get-rid-of-them
 _ https://www.google.com/amp/s/www.sciencealert.com/tab-overload-is-a-common-problem-for-people-browsing-the-internet-survey-finds/amp
 - https://blog.hubspot.com/marketing/create-company-wikipedia-page
+- https://www.klippa.com/en/blog/information/extract-data-from-pdf/
