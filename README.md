@@ -78,3 +78,4 @@
 _ https://www.google.com/amp/s/www.sciencealert.com/tab-overload-is-a-common-problem-for-people-browsing-the-internet-survey-finds/amp
 - https://blog.hubspot.com/marketing/create-company-wikipedia-page
 - https://www.klippa.com/en/blog/information/extract-data-from-pdf/
+- https://www.pragnakalp.com/case-study/nlp-resume-parser-bert-python/
