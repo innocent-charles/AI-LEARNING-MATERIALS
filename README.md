@@ -81,3 +81,4 @@ _ https://www.google.com/amp/s/www.sciencealert.com/tab-overload-is-a-common-pro
 - https://www.pragnakalp.com/case-study/nlp-resume-parser-bert-python/
 - https://www.palantir.com/newsroom/letters/
 - http://www.agritechs.co.tz/about
+- https://colorlib.com/wp/themes/
