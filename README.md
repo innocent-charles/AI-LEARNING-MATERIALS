@@ -83,3 +83,4 @@ _ https://www.google.com/amp/s/www.sciencealert.com/tab-overload-is-a-common-pro
 - http://www.agritechs.co.tz/about
 - https://colorlib.com/wp/themes/
 - https://docs.djangoproject.com/en/4.0/intro/tutorial01/
+- https://docs.djangoproject.com/en/4.0/
