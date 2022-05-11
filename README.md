@@ -84,3 +84,4 @@ _ https://www.google.com/amp/s/www.sciencealert.com/tab-overload-is-a-common-pro
 - https://colorlib.com/wp/themes/
 - https://docs.djangoproject.com/en/4.0/intro/tutorial01/
 - https://docs.djangoproject.com/en/4.0/
+- https://www.npr.org/2021/11/21/1056988346/web3-internet-jargon-or-future-vision
