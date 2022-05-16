@@ -89,3 +89,4 @@ _ https://www.google.com/amp/s/www.sciencealert.com/tab-overload-is-a-common-pro
 - https://www.singlegrain.com/web3/web-3-0/
 - https://www.revfine.com/internet-of-things-travel-industry/#iLightbox[gallery1026]/0
 - https://www.buymeacoffee.com/egator/e/54058
+- https://docs.digitalocean.com/tutorials/app-deploy-django-app/
