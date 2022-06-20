@@ -96,3 +96,4 @@ _ https://www.google.com/amp/s/www.sciencealert.com/tab-overload-is-a-common-pro
 - https://www.developlocal.org/using-artificial-intelligence-to-help-smallholder-farmers-combat-climate-change/
 - https://www.wipro.com/holmes/towards-future-farming-how-artificial-intelligence-is-transforming-the-agriculture-industry/
 - https://www.prnewswire.com/news-releases/waystar-acquires-digitizeai-to-automate-prior-authorization-300882368.html
+- https://hbr.org/2018/05/10-promising-ai-applications-in-health-care
