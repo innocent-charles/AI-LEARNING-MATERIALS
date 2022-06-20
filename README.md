@@ -93,3 +93,4 @@ _ https://www.google.com/amp/s/www.sciencealert.com/tab-overload-is-a-common-pro
 - https://www.wix.com/blog/2021/08/logo-size/
 - https://www.danaher.com/
 - https://bootstrapmade.com/
+- https://www.developlocal.org/using-artificial-intelligence-to-help-smallholder-farmers-combat-climate-change/
