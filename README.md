@@ -97,3 +97,4 @@ _ https://www.google.com/amp/s/www.sciencealert.com/tab-overload-is-a-common-pro
 - https://www.wipro.com/holmes/towards-future-farming-how-artificial-intelligence-is-transforming-the-agriculture-industry/
 - https://www.prnewswire.com/news-releases/waystar-acquires-digitizeai-to-automate-prior-authorization-300882368.html
 - https://hbr.org/2018/05/10-promising-ai-applications-in-health-care
+- https://www.experian.com/blogs/healthcare/2019/06/four-ways-to-use-ai-and-automation-in-revenue-cycle/
