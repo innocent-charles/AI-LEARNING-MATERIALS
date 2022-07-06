@@ -115,3 +115,4 @@ _ https://www.google.com/amp/s/www.sciencealert.com/tab-overload-is-a-common-pro
 - https://www.mongodb.com/languages/mean-stack-tutorial
 - https://en.wikipedia.org/wiki/StartUp_(TV_series)
 - https://developers.googleblog.com/2022/03/GoogleMachineLearningBootcamp.html
+- https://www.analyticssteps.com/blogs/alphabet-inc-everything-you-need-know
