@@ -123,3 +123,7 @@ _ https://www.google.com/amp/s/www.sciencealert.com/tab-overload-is-a-common-pro
 - https://www.filmxy.vip/
 - https://www.tecmint.com/download-managers-for-linux/
 - https://www.mentimeter.com/?utm_campaign=powered%20by%20mentimeter%20button&utm_medium=web-link&utm_source=govote&_ga=2.89512475.1892586453.1658233268-718609310.1658233268&_gl=1*vrh1j5*_ga*NzE4NjA5MzEwLjE2NTgyMzMyNjg.*_ga_TCT6BBBKGN*MTY1ODIzMzI2OS4xLjAuMTY1ODIzMzI2OS4w
+- https://remix.run/ 
+- https://vercel.com/
+- https://www.prisma.io/
+- https://www.linode.com/lp/free-credit-100/?promo=sitelin100&promo_value=100&promo_length=60&utm_source=google&utm_medium=cpc&utm_campaign=11178784969_109179236563&utm_term=g_aud-832126558926:kwd-2629795801_e_linode&utm_content=466889910685&locationid=9073725&device=c_c&gclid=Cj0KCQjwlemWBhDUARIsAFp1rLXKQmqt0B_l3gwxxn1UoOCNbkfHomwEqzZZriizq1WKoibsIVXqYZoaAozrEALw_wcB
