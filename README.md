@@ -128,3 +128,4 @@ _ https://www.google.com/amp/s/www.sciencealert.com/tab-overload-is-a-common-pro
 - https://www.prisma.io/
 - https://www.linode.com/lp/free-credit-100/?promo=sitelin100&promo_value=100&promo_length=60&utm_source=google&utm_medium=cpc&utm_campaign=11178784969_109179236563&utm_term=g_aud-832126558926:kwd-2629795801_e_linode&utm_content=466889910685&locationid=9073725&device=c_c&gclid=Cj0KCQjwlemWBhDUARIsAFp1rLXKQmqt0B_l3gwxxn1UoOCNbkfHomwEqzZZriizq1WKoibsIVXqYZoaAozrEALw_wcB
 - https://roadmap.sh/backend
+- https://www.optisolbusiness.com/insight/how-to-parse-resume-using-tesseract-east-text
